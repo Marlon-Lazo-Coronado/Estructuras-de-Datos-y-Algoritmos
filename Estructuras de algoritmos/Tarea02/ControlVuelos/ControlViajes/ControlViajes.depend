@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1611376150 source:c:\users\mlazo\onedrive\escritorio\estructurasdealgoritmos\ie0217_trabajos\tarea02\controlvuelos\controlviajes\main.cpp
+	<iostream>
+	"header.h"
+	"definiciones.cpp"
+
+1611358944 c:\users\mlazo\onedrive\escritorio\estructurasdealgoritmos\ie0217_trabajos\tarea02\controlvuelos\controlviajes\header.h
+	<iostream>
+
+1611292892 c:\users\mlazo\onedrive\escritorio\estructurasdealgoritmos\ie0217_trabajos\tarea02\controlvuelos\controlviajes\definiciones
+
+1611376501 c:\users\mlazo\onedrive\escritorio\estructurasdealgoritmos\ie0217_trabajos\tarea02\controlvuelos\controlviajes\definiciones.cpp
+	"header.h"
+

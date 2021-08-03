@@ -1,0 +1,8 @@
+Tutorial xwpython:
+https://zetcode.com/wxpython/
+
+Tutorial C prefijos y sufijos:
+https://runestone.academy/runestone/books/published/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html
+
+Video del articulo de prefijo y sufijos:
+https://www.youtube.com/watch?v=LO-2q4pSsdM&feature=youtu.be

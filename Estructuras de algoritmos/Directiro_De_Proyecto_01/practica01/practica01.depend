@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610181217 source:c:\users\mlazo\onedrive\escritorio\estructurasdealgoritmos\directiro_de_proyecto_01\practica01\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"encabezado.h"
+
+1610181870 source:c:\users\mlazo\onedrive\escritorio\estructurasdealgoritmos\directiro_de_proyecto_01\practica01\ordenar.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"encabezado.h"
+
+1610182547 c:\users\mlazo\onedrive\escritorio\estructurasdealgoritmos\directiro_de_proyecto_01\practica01\encabezado.h
+
